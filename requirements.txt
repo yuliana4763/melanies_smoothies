@@ -1,9 +1,7 @@
 # requirements.txt
 python==3.9
-#snowflake-snowpark-python 
-#streamlit
+snowflake-snowpark-python 
+streamlit
+requests
 
-pip install --upgrade pip setuptools wheel
-pip install streamlit
-pip install snowflake-snowpark-python
 
